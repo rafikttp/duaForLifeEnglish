@@ -1,0 +1,51 @@
+---
+layout: compress
+---
+<!doctype html>
+<html lang="en">
+
+<head>
+    <link rel="shortcut icon" type="image/png" href="/images/favicon.png" >
+    {% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
+
+    <style type="text/css" media="all">
+        .landingpage {
+            background: black;
+            background-size: cover;
+            margin: 1px 1px 1px 1px
+        }
+        .landing {
+            text-align: center;
+            color: white
+        }
+        .landing a {
+            color: white;
+            text-decoration: none
+        }
+        .landing img {
+            padding-top: 10%;
+            padding-bottom: 2%;
+            text-align: center
+        }
+    </style>
+    <title> Dua For Life</title>
+    <meta name="viewport" content="width=device-width">
+    {% seo %}
+</head>
+
+<body class="landingpage">
+
+    {{ content }}
+
+</body>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-83366815-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+</html>
