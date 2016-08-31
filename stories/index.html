@@ -1,0 +1,12 @@
+---
+layout: allpages
+title:  Stories of Accepted Dua
+---
+
+{% assign sorted_pages = site.pages | sort:"order" %}
+{% for page in sorted_pages %}
+  {% if page.categories contains 'stories' %}
+      <p>{{ page.order }} .<a href="{{ page.permalink }}"><b>{{ page.title }}</b></a></p>
+      <br>
+  {% endif %}
+{% endfor %}

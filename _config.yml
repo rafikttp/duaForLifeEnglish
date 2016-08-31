@@ -1,0 +1,12 @@
+title: Dua For Life
+description : A Website aimed to provide the importance of Dua in Everyone of our Lives
+url: http://en.duaforlife.com
+
+
+
+include: ['_includes','_pages']
+categories: [home, etiquette, stories, supplications]
+permalink: pretty
+gems:
+  - jekyll-sitemap
+  - jekyll-seo-tag

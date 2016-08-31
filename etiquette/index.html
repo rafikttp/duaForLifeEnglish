@@ -1,0 +1,13 @@
+---
+layout: allpages
+title:  Etiquette of Making Dua
+description: Let Us look at the important etiqutte for getting our dua accepted
+---
+
+{% assign sorted_pages = site.pages | sort:"order" %}
+{% for page in sorted_pages %}
+  {% if page.categories contains 'etiquette' %}
+      <p>{{ page.order }} .<a href="{{ site.baseurl }}{{ page.url }}"><b>{{ page.title }}</b></a></p>
+      <br>
+  {% endif %}
+{% endfor %}
