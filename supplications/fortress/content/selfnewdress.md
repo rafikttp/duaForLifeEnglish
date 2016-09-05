@@ -1,15 +1,17 @@
 ---
 layout: allpages
-title:  Invocation when putting on new clothes
-categories : [fortress]
-order : 4
+title: Invocation when putting on new clothes
+categories:
+  - fortress
+order: 4
 description: What to say when putting on new clothes
+published: true
 ---
 
 &nbsp;
 <div class="arabictext" dir="RTL">
 
-اللَّهُمَّ لَكَ الْحَمْدُ أَنْتَ كَسَوْتَنِيهِ، أَسْأَلُكَ مِنْ خَيْرِهِ وَخَيْرِ مَا صُنِعَ لَهُ، وَأَعُوذُ بِكَ مِنْ شَرِّهِ وَشَرِّ مَا صُنِعَ لَهُ
+اللَّهُمَّ لَكَ الْحَمْدُ أَنْتَ كَسَوْتَنِيهِ، أَسْأَلُكَ مِنْ خَيْرِهِ وَخَيْرِ مَا صُنِعَ لَهُ، وَأَعُوذُ بِكَ مِنْ شَرِّهِ وَشَرِّ مَا صُنِعَ لَهُ
 
 </div>
 &nbsp;
