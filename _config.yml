@@ -11,8 +11,12 @@ gems:
   - jekyll-sitemap
   - jekyll-seo-tag
 
+## prose.io config
+prose:
+  rooturl: 'supplications'
+  siteurl: 'http://en.duaforlife.com'
 metadata:
-    _posts:
+    _/supplications:
       - name: "layout"
         field:
           element: "text"
