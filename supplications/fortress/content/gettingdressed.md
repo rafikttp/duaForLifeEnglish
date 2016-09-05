@@ -1,15 +1,17 @@
 ---
 layout: allpages
-title:  Invocation when getting dressed
-categories : [fortress]
-order : 3
+title: Invocation when getting dressed
+categories:
+  - fortress
+order: 3
 description: What to say when getting dressed
+published: true
 ---
 
 &nbsp;
 <div class="arabictext" dir="RTL">
 
-الْحَمْدُ للهِ الَّذِي كَسَانِي هَذَا (الثَّوبَ) وَرَزَقَنِيهِ مِنْ غَيْرِ حَوْلٍ مِنِّي وَلَا قُوَّةٍ
+الْحَمْدُ للهِ الَّذِي كَسَانِي هَذَا (الثَّوبَ) وَرَزَقَنِيهِ مِنْ غَيْرِ حَوْلٍ مِنِّي وَلَا قُوَّةٍ
 
 </div>
 &nbsp;
