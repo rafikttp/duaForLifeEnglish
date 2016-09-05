@@ -12,7 +12,7 @@ gems:
   - jekyll-seo-tag
 
 metadata:
-    _posts:
+    _pages:
       - name: "layout"
         field:
           element: "text"
