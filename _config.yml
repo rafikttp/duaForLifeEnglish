@@ -4,9 +4,40 @@ url: http://en.duaforlife.com
 
 
 
-include: ['_includes','_pages']
+include: ['_includes']
 categories: [home, etiquette, stories, fortress,supplications]
 permalink: pretty
 gems:
   - jekyll-sitemap
   - jekyll-seo-tag
+
+metadata:
+    _posts:
+      - name: "layout"
+        field:
+          element: "text"
+          value: "allpages"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Post title"
+          placeholder: "Title"
+          alterable: true
+      - name: "description"
+        field:
+          element: "textarea"
+          label: "description"
+          placeholder: "A description of your post."
+          alterable: true
+      - name: "order"
+        field:
+          element: "text"
+          label: "order"
+          placeholder: "order number"
+          alterable: true
+      - name: "categories"
+        field:
+          element: "textarea"
+          label: "categories"
+          help: "Check to publish post, uncheck to hide."
+          alterable: true
