@@ -1,15 +1,17 @@
 ---
 layout: allpages
-title:  Invocation For Entering The Restroom
-categories : [fortress]
-order : 7
+title: Invocation For Entering The Restroom
+categories:
+  - fortress
+order: 7
 description: What to say when Entering The Restroom
+published: true
 ---
 
 &nbsp;
 <div class="arabictext" dir="RTL">
 
-[بِسْمِ اللهِ] اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْخُبُْثِ وَالْخَبَائِثِ
+بِسْمِ اللهِ] اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْخُبُْثِ وَالْخَبَائِثِ
 
 </div>
 &nbsp;
