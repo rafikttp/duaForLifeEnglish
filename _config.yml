@@ -13,7 +13,7 @@ gems:
 
 prose:
 metadata:
- supplications:
+ /supplications:
   - name: "meta"
         field:
           label: "meta"
