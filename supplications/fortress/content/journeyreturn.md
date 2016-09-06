@@ -6,23 +6,26 @@ order : 101
 description: What to say upon returning from a journey
 ---
 
-&nbsp; <div class="extra">
+<br>
+<div class="extra">
 From every elevated point say Allaahu 'Akbar (Allah is the Most Great) three times 
 </div> 
-&nbsp;
+<br>
 <div class="arabictext" dir="RTL">
 ا للهُ أَكْـبَر، ا للهُ أَكْـبَر، ا للهُ أَكْـبَ
 </div>
-&nbsp; <div class="extra">
+<br>
+
+<div class="extra">
 and then recite:</div> 
-&nbsp;
+<br>
 <div class="arabictext" dir="RTL">
 
 لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٍ آيِبُونَ تَائِبُونَ عَابِدُونَ سَاجِدُونَ لِرَبِّنَا حَامِدُونَ صَدقَ اللَّهُ وَعْدَهُ وَنَصَرَ عَبْدَهُ وَهَزَمَ الْأَحْزَابَ وَحْدَهُ
 
 </div>
 
-&nbsp;
+<br>
 
 <audio controls  preload="none">
   <source src="{{ site.baseurl }}/audio/fortress/214.mp3" type="audio/mpeg">
