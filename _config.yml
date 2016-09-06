@@ -16,5 +16,4 @@ metadata:
  supplications:
   - name: "layout"
     field:
-      element: "hidden"
-      value: "allpages"
+      element: "textarea"
