@@ -2,7 +2,7 @@
 layout: allpages
 title:  Invocation for when you find something becoming difficult for you
 categories : [fortress]
-order : 37
+order : 43
 description: What to say when something becoming difficult for you
 ---
 &nbsp;
