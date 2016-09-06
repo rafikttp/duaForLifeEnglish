@@ -2,7 +2,7 @@
 layout: allpages
 title:  Words of remembrance for morning and evening
 categories : [fortress]
-order : 24
+order : 26
 description: What to say when for remembrance for morning and evening
 ---
 &nbsp;
