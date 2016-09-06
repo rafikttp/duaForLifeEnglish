@@ -38,7 +38,7 @@ O Allah, send blessing upon him
 <div class="arabictext" dir="RTL">
 
 ما شاء الله لا قوة الا بالله
-</div> </div> 
+</div> 
 
 
 <div class="duaextra" tabindex="0"> <div onclick = "void(0)"><strong>Transliteration</strong></div> <div class="extra">
