@@ -2,7 +2,7 @@
 layout: allpages
 title:  Invocations for Qunut in the Witr prayer
 categories : [fortress]
-order : 30
+order : 32
 description: What to say for Qunut in the Witr prayer
 ---
 &nbsp;
