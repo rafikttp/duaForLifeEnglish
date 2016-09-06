@@ -5,7 +5,8 @@ categories : [fortress]
 order : 113
 description: Invocation to be recited on the Day of Arafat
 ---
-&nbsp; <div class="extra">
+&nbsp; 
+<div class="extra">
 The Prophet (SAW) said: The best invocation is that of the Day of Arafat, and the best that anyone can say is what I and the Prophets before me have said:
 </div> 
 &nbsp;
