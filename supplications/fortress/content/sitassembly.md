@@ -32,10 +32,12 @@ Your browser does not support the audio element.
 <div class="duaextra" tabindex="0"> <div onclick = "void(0)"><strong>Transliteration</strong></div> <div class="extra">
 195. Rabbighfir lee wa tub 'alayya 'innaka 'Antat-Tawwaabul-Ghafoor.
 
-</div> </div> &nbsp; <div class="duaextra" tabindex="0"> <div onclick = "void(0)"><strong>Translation</strong></div> <div class="extra">
+</div> </div> &nbsp;
+<div class="duaextra" tabindex="0"> <div onclick = "void(0)"><strong>Translation</strong></div> <div class="extra">
 My Lord, forgive me and accept my repentance, You are the Ever-Relenting, the All-Forgiving.
 
-</div> </div> &nbsp; <div class="duaextra" tabindex="0"> <div onclick = "void(0)"><strong>Reference</strong></div> <div class="extra">
+</div> </div> &nbsp;
+<div class="duaextra" tabindex="0"> <div onclick = "void(0)"><strong>Reference</strong></div> <div class="extra">
 Reference: Sahih Ibn Majah 2/321. See also Al-Albani, Sahih At-Tirmithi 3/153.
 
 </div> </div>
