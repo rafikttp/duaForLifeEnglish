@@ -26,11 +26,6 @@ prose:
           label: "categories"
           element: "text"
           value: "fortress"
-      - name: "title"
-        field:
-          label: "title"
-          element: "text"
-          placeholder: "Enter title"
       - name: "pagetitle"
         field:
           label: "title"
