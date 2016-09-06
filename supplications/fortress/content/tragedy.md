@@ -2,7 +2,7 @@
 layout: allpages
 title:  Invocation for when tragedy strikes
 categories : [fortress]
-order : 42
+order : 52
 description: Invocation for when tragedy strikes
 ---
 &nbsp;
