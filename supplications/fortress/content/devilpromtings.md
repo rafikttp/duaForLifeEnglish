@@ -2,7 +2,7 @@
 layout: allpages
 title:  Invocations against the Devil and his promptings
 categories : [fortress]
-order : 38
+order : 45
 description: What to say against the Devil and his promptings
 ---
 &nbsp;
