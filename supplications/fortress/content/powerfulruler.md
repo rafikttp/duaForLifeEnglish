@@ -2,7 +2,7 @@
 layout: allpages
 title:  Invocations for when you meet an adversary or a powerful ruler
 categories : [fortress]
-order : 33
+order : 36
 description: What to say in meet an adversary or a powerful ruler
 ---
 &nbsp;
