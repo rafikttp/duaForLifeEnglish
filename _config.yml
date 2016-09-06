@@ -18,7 +18,7 @@ prose:
     _posts:
       - name: "layout"
         field:
-          element: "hidden"
+          element: "allpages"
           value: "blog"
       - name: "tags"
         field:
