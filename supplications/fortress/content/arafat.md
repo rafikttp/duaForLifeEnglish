@@ -26,10 +26,14 @@ Your browser does not support the audio element.
 <div class="duaextra" tabindex="0"> <div onclick = "void(0)"><strong>Transliteration</strong></div> <div class="extra">
 237. Laa 'ilaaha 'illallaahu wahdahu laa shareeka lahu, lahul-mulku wa lahul-hamdu wa Huwa 'alaa kulli shay'in Qadeer.
 
-</div> </div> &nbsp; <div class="duaextra" tabindex="0"> <div onclick = "void(0)"><strong>Translation</strong></div> <div class="extra">
+</div> </div> 
+&nbsp; 
+<div class="duaextra" tabindex="0"> <div onclick = "void(0)"><strong>Translation</strong></div> <div class="extra">
 None has the right to be worshipped but Allah alone, Who has no partner. His is the dominion and His is the praise, and He is Able to do all things.
 
-</div> </div> &nbsp; <div class="duaextra" tabindex="0"> <div onclick = "void(0)"><strong>Reference</strong></div> <div class="extra">
+</div> </div>
+&nbsp; 
+<div class="duaextra" tabindex="0"> <div onclick = "void(0)"><strong>Reference</strong></div> <div class="extra">
 Reference: At-Tirmithi. Al-Albani graded it good in Sahih At-Tirmithi 3/184, and also Silsilatul-'Ahadith As-Sahihah 4/6.
 
 </div> </div>
