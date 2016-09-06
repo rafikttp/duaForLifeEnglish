@@ -25,10 +25,12 @@ Your browser does not support the audio element.
 <div class="duaextra" tabindex="0"> <div onclick = "void(0)"><strong>Transliteration</strong></div> <div class="extra">
 136. Allaahummak-finee bihalaalika 'an haraamika wa 'aghninee bifadhlika 'amman siwaaka.
 
-</div> </div> &nbsp; <div class="duaextra" tabindex="0"> <div onclick = "void(0)"><strong>Translation</strong></div> <div class="extra">
+</div> </div> &nbsp;
+<div class="duaextra" tabindex="0"> <div onclick = "void(0)"><strong>Translation</strong></div> <div class="extra">
 O Allah, suffice me with what You have allowed instead of what You have forbidden , and make me independent of all others besides You.
 
-</div> </div> &nbsp; <div class="duaextra" tabindex="0"> <div onclick = "void(0)"><strong>Reference</strong></div> <div class="extra">
+</div> </div> &nbsp;
+<div class="duaextra" tabindex="0"> <div onclick = "void(0)"><strong>Reference</strong></div> <div class="extra">
 Reference: At-Tirmithi 5/560. See also Al-Albani, Sahih At-Tirmithi 3/180.
 
 </div> </div>
@@ -53,10 +55,12 @@ Your browser does not support the audio element.
 <div class="duaextra" tabindex="0"> <div onclick = "void(0)"><strong>Transliteration</strong></div> <div class="extra">
 137. Allaahumma 'innee 'a'oothu bika minal-hammi walhazani, wal'ajzi walkasali, walbukhli waljubni, wa dhala'id-dayni wa ghalabatir-rijaali .
 
-</div> </div> &nbsp; <div class="duaextra" tabindex="0"> <div onclick = "void(0)"><strong>Translation</strong></div> <div class="extra">
+</div> </div> &nbsp; 
+<div class="duaextra" tabindex="0"> <div onclick = "void(0)"><strong>Translation</strong></div> <div class="extra">
 O Allah , I seek refuge in You from grief and sadness, from weakness and from laziness, from miserliness and from cowardice, from | being overcome by debt and from being overpowered by men (i .e. other people).
 
-</div> </div> &nbsp; <div class="duaextra" tabindex="0"> <div onclick = "void(0)"><strong>Reference</strong></div> <div class="extra">
+</div> </div> &nbsp;
+<div class="duaextra" tabindex="0"> <div onclick = "void(0)"><strong>Reference</strong></div> <div class="extra">
 Reference: Al-Bukhari 7/158.
 
 </div> </div>
