@@ -51,10 +51,7 @@ Reference: Ahmad 2/7, At-Tirmithi 5/499. See also Al-Albani, Sahih At-Tirmithi 2
 
 &nbsp;
 
-<audio controls  preload="none">
-  <source src="{{ site.baseurl }}/audio/fortress/213.mp3" type="audio/mpeg">
-Your browser does not support the audio element.
-</audio>&nbsp;
+
 
 <div class="duaextra" tabindex="0">
 <div><strong>Transliteration</strong></div>
