@@ -25,8 +25,6 @@ description: The groom's invocation and what he says upon purchasing an animal
 <div class="extra">O Allah, I ask You for the goodness of her and the goodness upon which You have created her, and I seek refuge in You from the evil of her and from the evil upon which You have created her.</div>
 </div>
 &nbsp;
-
-&nbsp;
 <div class="extra">If you purchase a camel then take hold of the top of its hump and say the same.</div>
 <div class="duaextra" tabindex="0">
 <div><strong>Reference</strong></div>
