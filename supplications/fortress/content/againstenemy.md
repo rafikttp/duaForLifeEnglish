@@ -2,7 +2,7 @@
 layout: allpages
 title:  Invocation against an enemy
 categories : [fortress]
-order : 37
+order : 38
 description: What to say against an enemy
 ---
 &nbsp;
