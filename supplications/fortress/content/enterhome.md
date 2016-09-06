@@ -1,7 +1,7 @@
 ---
 layout: allpages
-categories: fortress
-published: false
+categories: [fortress]
+published: true
 title: enterhome.md
 pagetitle: What to say when entering the home
 description: What to say when entering the home
