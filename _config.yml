@@ -15,7 +15,7 @@ prose:
   rooturl: 'supplications'
   siteurl: 'en.duaforlife.com/'
   metadata:
-    _posts:
+    supplications:
       - name: "layout"
         field:
           element: "hidden"
