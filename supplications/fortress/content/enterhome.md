@@ -1,8 +1,8 @@
 ---
 layout: allpages
-categories: [fortress]
+categories: fortress
 published: true
-title: enterhome.md
+title: What to say when entering the home
 pagetitle: What to say when entering the home
 description: What to say when entering the home
 order: '12'
