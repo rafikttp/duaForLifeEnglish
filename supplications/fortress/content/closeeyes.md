@@ -2,7 +2,7 @@
 layout: allpages
 title:  Invocation for closing the eyes of the dead
 categories : [fortress]
-order : 43
+order : 53
 description: Invocation for closing the eyes of the dead
 ---
 &nbsp;
