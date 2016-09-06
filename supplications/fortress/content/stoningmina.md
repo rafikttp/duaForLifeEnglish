@@ -36,7 +36,7 @@ Allah is the Most Great
 </div> </div>
 &nbsp; 
 <div class="extra">
-with each pebble he threw at the three pillars. Then he went forward, stood facing the Qiblah and raised his hands and called upon Allah. That was after (stoning) the first and second pillar. As for the third, he stoned it and called out Allaahu 'Akbar with every pebble he threw, but when he was finished he left without standing at it (for supplications).
+With each pebble he threw at the three pillars. Then he went forward, stood facing the Qiblah and raised his hands and called upon Allah. That was after (stoning) the first and second pillar. As for the third, he stoned it and called out Allaahu 'Akbar with every pebble he threw, but when he was finished he left without standing at it (for supplications).
 </div> 
 <br>
 <div class="duaextra" tabindex="0"> <div onclick = "void(0)"><strong>Reference</strong></div> <div class="extra">
