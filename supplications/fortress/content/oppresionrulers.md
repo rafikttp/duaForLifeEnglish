@@ -2,7 +2,7 @@
 layout: allpages
 title:  Invocations against the oppression of rulers
 categories : [fortress]
-order : 35
+order : 37
 description: What to say for oppression of rulers
 ---
 &nbsp;
