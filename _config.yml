@@ -31,6 +31,11 @@ prose:
           label: "title"
           element: "text"
           placeholder: "Enter title"
+      - name: "pagetitle"
+        field:
+          label: "pagetitle"
+          element: "text"
+          placeholder: "Enter title"
       - name: "description"
         field:
           label: "description"
