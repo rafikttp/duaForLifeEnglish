@@ -12,9 +12,8 @@ gems:
   - jekyll-seo-tag
 
 prose:
-  rooturl: ''
+  rooturl: '_pages'
   siteurl: 'en.duaforlife.com/'
-  media: 'assets'
   metadata:
     _pages:
       - name: "layout"
