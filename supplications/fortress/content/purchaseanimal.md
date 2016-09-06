@@ -13,13 +13,7 @@ description: The groom's invocation and what he says upon purchasing an animal
 اللّهُـمَّ إِنَّـي أَسْـأَلُـكَ خَيْـرَها، وَخَيْـرَ ما لَجَبَلْـتَه عَلَـيْه، وَأَعـوذُ بِكَ مِنْ شَـرِّها، وَشَـرِّ ما جَبَلْـتَهَـا عَلَـيْه
 
 </div>
-&nbsp;
 
-
-<audio controls  preload="none">
-  <source src="{{ site.baseurl }}/audio/fortress/191.mp3" type="audio/mpeg">
-Your browser does not support the audio element.
-</audio>
 &nbsp;
 <div class="duaextra" tabindex="0">
 <div><strong>Transliteration</strong></div>
