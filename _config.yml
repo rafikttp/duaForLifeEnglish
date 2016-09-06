@@ -12,7 +12,7 @@ gems:
   - jekyll-seo-tag
 
 prose:
-  rooturl: '_posts'
+  rooturl: 'supplications'
   siteurl: 'en.duaforlife.com/'
   metadata:
     _posts:
