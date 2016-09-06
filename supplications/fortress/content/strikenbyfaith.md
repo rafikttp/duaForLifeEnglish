@@ -2,7 +2,7 @@
 layout: allpages
 title:  Invocations for if you are stricken by in your faith
 categories : [fortress]
-order : 37
+order : 40
 description: What to say if you are stricken by in your faith
 ---
 &nbsp;
