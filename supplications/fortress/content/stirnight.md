@@ -2,7 +2,7 @@
 layout: allpages
 title:  Invocation to say if you stir in the night
 categories : [fortress]
-order : 26
+order : 29
 description: What to say when say if you stir in the night
 ---
 
