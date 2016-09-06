@@ -16,4 +16,5 @@ metadata:
  supplications:
   - name: "layout"
     field:
-      element: "textarea"
+      element: "text"
+      type: "text"
