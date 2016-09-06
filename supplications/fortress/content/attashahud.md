@@ -2,7 +2,7 @@
 layout: allpages
 title:  Invocation for At-Tashahhud (sitting in prayer)
 categories : [fortress]
-order : 22
+order : 23
 description: What to say when in At-Tashahhud 
 ---
 &nbsp;
