@@ -2,7 +2,7 @@
 layout: allpages
 title:  Invocation for sneezing
 categories : [fortress]
-order : 73
+order : 74
 description: Invocation for sneezing
 ---
 
