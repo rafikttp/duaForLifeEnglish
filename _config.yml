@@ -20,19 +20,24 @@ prose:
         field:
           element: "text"
           value: "allpages"
+          placeholder: "Enter layout"
       - name: "title"
         field:
           field:
           element: "text"
+		  placeholder: "Enter title"
       - name: "description"
         field:
           field:
           element: "text"
+          placeholder: "Enter description"
    	  - name: "order"
         field:
           field:
           element: "text"
+          placeholder: "Enter order"
       - name: "category"
         field:
           field:
           element: "text"
+          placeholder: "Enter categories"
