@@ -2,7 +2,7 @@
 layout: allpages
 title:  Invocation against the distractions of Satan during the prayer and recitation of the Qur'an
 categories : [fortress]
-order : 37
+order : 42
 description: What to say against the distractions of Satan during the prayer and recitation of the Qur'an
 ---
 &nbsp;
