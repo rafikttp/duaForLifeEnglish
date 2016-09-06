@@ -2,7 +2,7 @@
 layout: allpages
 title:  Invocation for when something you dislike happens, or for when you fail to achieve what you attempt to do
 categories : [fortress]
-order : 38
+order : 46
 description: What to say when something you dislike happens
 ---
 &nbsp;
