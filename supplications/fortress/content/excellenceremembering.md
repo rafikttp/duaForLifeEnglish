@@ -106,11 +106,6 @@ Your browser does not support the audio element.
 </div>
 &nbsp;
 
-<audio controls  preload="none">
-  <source src="{{ site.baseurl }}/audio/fortress/257.mp3" type="audio/mpeg">
-Your browser does not support the audio element.
-</audio>
-&nbsp;
 <div class="duaextra" tabindex="0">
 <div><strong>Transliteration</strong></div>
 <div class="extra">Subhaanallaahi, walhamdu lillaahi, wa laa 'ilaaha 'illallaahu, wallaahu 'Akbar.</div>
