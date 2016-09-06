@@ -2,7 +2,7 @@
 layout: allpages
 title:  What to say and do if you commit a sin
 categories : [fortress]
-order : 38
+order : 44
 description: What to say if you commit a sin
 ---
 &nbsp;
