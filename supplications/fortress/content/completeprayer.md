@@ -2,7 +2,7 @@
 layout: allpages
 title:  What to say after completing the prayer
 categories : [fortress]
-order : 24
+order : 25
 description: What to say after completing the prayer
 ---
 &nbsp;
