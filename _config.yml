@@ -20,30 +20,22 @@ prose:
         field:
           label: "layout"
           element: "text"
-          value: "post"
-      - name: "date"
-        field:
-          label: "date"
-          element: "text"
-          value: "CURRENT_DATETIME"
-      - name: "author"
-        field:
-          label: "author"
-          element: "text"
-          value: "Hywel"
+          value: "allpages"
       - name: "categories"
         field:
           label: "categories"
           element: "text"
           placeholder: "Enter categories"
-      - name: "excerpt"
+      - name: "description"
         field:
-          label: "excerpt"
+          label: "description"
           element: "text"
-          placeholder: "Enter excerpt"
-      - name: "meta"
+          placeholder: "Enter description"
+      - name: "order"
         field:
-          label: "meta"
+          label: "order"
           element: "text"
-          placeholder: "Enter metadata"
+          placeholder: "Enter order"
+          
+          
   
