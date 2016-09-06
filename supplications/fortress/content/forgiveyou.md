@@ -1,9 +1,9 @@
 ---
 layout: allpages
-title:  Invocation for someone who says : "May Allah forgive you"
+title:  Invocation for someone who says, May Allah forgive you
 categories : [fortress]
 order : 83
-description: Invocation for someone who says : "May Allah forgive you"
+description: Invocation for someone who says, May Allah forgive you
 ---
 
 <div class="extra">When someone says:</div>
