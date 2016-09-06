@@ -12,10 +12,10 @@ gems:
   - jekyll-seo-tag
 
 prose:
-  rooturl: '_pages'
+  rooturl: 'supplications'
   siteurl: 'en.duaforlife.com/'
   metadata:
-    _pages:
+    supplications:
       - name: "layout"
         field:
           label: "layout"
