@@ -14,7 +14,8 @@ gems:
 prose:
 metadata:
  supplications:
-  - name: "layout"
-    field:
-      element: "text"
-      type: "text"
+  - name: "meta"
+        field:
+          label: "meta"
+          element: "text"
+          placeholder: "Enter metadata"
