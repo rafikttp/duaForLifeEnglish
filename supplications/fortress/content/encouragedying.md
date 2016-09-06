@@ -2,7 +2,7 @@
 layout: allpages
 title:  What to encourage the dying person to say
 categories : [fortress]
-order : 41
+order : 51
 description: What to say to encourage the dying person to say
 ---
 &nbsp;
