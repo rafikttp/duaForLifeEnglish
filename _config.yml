@@ -25,7 +25,7 @@ prose:
         field:
           label: "categories"
           element: "text"
-          value: "fortress"
+          value: "[fortress]"
       - name: "pagetitle"
         field:
           label: "title"
