@@ -2,7 +2,7 @@
 layout: allpages
 title:  Invocations of the terminally ill
 categories : [fortress]
-order : 40
+order : 50
 description: What to say for the terminally ill
 ---
 &nbsp;
