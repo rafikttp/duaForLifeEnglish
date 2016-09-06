@@ -33,7 +33,7 @@ prose:
           placeholder: "Enter title"
       - name: "pagetitle"
         field:
-          label: "pagetitle"
+          label: "title"
           element: "text"
           placeholder: "Enter title"
       - name: "description"
