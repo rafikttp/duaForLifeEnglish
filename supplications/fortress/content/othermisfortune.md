@@ -2,7 +2,7 @@
 layout: allpages
 title:  What to say if you see someone afflicted by misfortune
 categories : [fortress]
-order : 33
+order : 80
 description: What to say if you see someone afflicted by misfortune
 ---
 
