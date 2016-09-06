@@ -11,3 +11,10 @@ gems:
   - jekyll-sitemap
   - jekyll-seo-tag
 
+prose:
+metadata:
+ supplications:
+  - name: "layout"
+    field:
+      element: "hidden"
+      value: "allpages"
