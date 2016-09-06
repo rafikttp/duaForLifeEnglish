@@ -23,10 +23,12 @@ Your browser does not support the audio element.
 <div class="duaextra" tabindex="0"> <div onclick = "void(0)"><strong>Transliteration</strong></div> <div class="extra">
 240. Subhaanallaah!
 
-</div> </div> &nbsp; <div class="duaextra" tabindex="0"> <div onclick = "void(0)"><strong>Translation</strong></div> <div class="extra">
+</div> </div> &nbsp; 
+<div class="duaextra" tabindex="0"> <div onclick = "void(0)"><strong>Translation</strong></div> <div class="extra">
 Glory is to Allah
 
-</div> </div> &nbsp; <div class="duaextra" tabindex="0"> <div onclick = "void(0)"><strong>Reference</strong></div> <div class="extra">
+</div> </div> &nbsp;
+<div class="duaextra" tabindex="0"> <div onclick = "void(0)"><strong>Reference</strong></div> <div class="extra">
 Reference: Al-Bukhari, cf. Al-Asqalani, Fathul-Bari 1/210, 390, 414 and Muslim 4/1857.
 
 </div> </div>
@@ -48,10 +50,12 @@ Your browser does not support the audio element.
 <div class="duaextra" tabindex="0"> <div onclick = "void(0)"><strong>Transliteration</strong></div> <div class="extra">
 241. Allaahu 'Akbar!
 
-</div> </div> &nbsp; <div class="duaextra" tabindex="0"> <div onclick = "void(0)"><strong>Translation</strong></div> <div class="extra">
+</div> </div> &nbsp; 
+<div class="duaextra" tabindex="0"> <div onclick = "void(0)"><strong>Translation</strong></div> <div class="extra">
 Allah is the Most Great
 
-</div> </div> &nbsp; <div class="duaextra" tabindex="0"> <div onclick = "void(0)"><strong>Reference</strong></div> <div class="extra">
+</div> </div> &nbsp; 
+<div class="duaextra" tabindex="0"> <div onclick = "void(0)"><strong>Reference</strong></div> <div class="extra">
 Reference: Al-Bukhari, cf. Al-Asqalani, Fathul-Bari 8/441. See also Al-Albani, Sahih At-Tirmithi 2/103, 235, Ahmad 5/218.
 
 </div> </div>
