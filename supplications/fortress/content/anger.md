@@ -24,10 +24,12 @@ Your browser does not support the audio element.
 <div class="duaextra" tabindex="0"> <div onclick = "void(0)"><strong>Transliteration</strong></div> <div class="extra">
 193. 'A'oothu billaahi minash-Shaytaanir-rajeem .
 
-</div> </div> &nbsp; <div class="duaextra" tabindex="0"> <div onclick = "void(0)"><strong>Translation</strong></div> <div class="extra">
+</div> </div> &nbsp; 
+<div class="duaextra" tabindex="0"> <div onclick = "void(0)"><strong>Translation</strong></div> <div class="extra">
 I seek refuge in Allah from Satan the outcast from that which You provide for us.
 
-</div> </div> &nbsp; <div class="duaextra" tabindex="0"> <div onclick = "void(0)"><strong>Reference</strong></div> <div class="extra">
+</div> </div> &nbsp;
+<div class="duaextra" tabindex="0"> <div onclick = "void(0)"><strong>Reference</strong></div> <div class="extra">
 Reference: Al-Bukhari 7/99, Muslim 4/2015.
 
 </div> </div>
