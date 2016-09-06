@@ -2,7 +2,7 @@
 layout: allpages
 title:  Invocations for visiting the sick
 categories : [fortress]
-order : 39
+order : 49
 description: What to say for visiting the sick
 ---
 &nbsp;
