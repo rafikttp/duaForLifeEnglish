@@ -1,9 +1,9 @@
 ---
 layout: allpages
-title:  What to say immediately following the Witr prayer
+title:  What to say if something happens to please you or to displease you
 categories : [fortress]
 order : 102
-description: What to say immediately following the Witr prayer
+description: What to say if something happens to please you or to displease you
 ---
 <br>
 <div class="extra">218. When something happened that pleased him , the Prophet (SAW) used to say:</div>
