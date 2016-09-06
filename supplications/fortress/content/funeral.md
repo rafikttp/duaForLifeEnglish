@@ -13,7 +13,11 @@ description: Invocations for the dead in the Funeral prayer
 </div>
 &nbsp;
 
-[audio mp3="{{ site.baseurl }}/audio/fortress156.mp3"][/audio]
+
+<audio controls  preload="none">
+  <source src="{{ site.baseurl }}/audio/fortress/156.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
 
 &nbsp;
 <div class="duaextra" tabindex="0">
@@ -38,7 +42,11 @@ description: Invocations for the dead in the Funeral prayer
 </div>
 &nbsp;
 
-[audio mp3="{{ site.baseurl }}/audio/fortress157.mp3"][/audio]
+
+<audio controls  preload="none">
+  <source src="{{ site.baseurl }}/audio/fortress/157.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
 
 &nbsp;
 <div class="duaextra" tabindex="0">
@@ -63,7 +71,11 @@ description: Invocations for the dead in the Funeral prayer
 </div>
 &nbsp;
 
-[audio mp3="{{ site.baseurl }}/audio/fortress158.mp3"][/audio]
+
+<audio controls  preload="none">
+  <source src="{{ site.baseurl }}/audio/fortress/158.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
 
 &nbsp;
 <div class="duaextra" tabindex="0">
@@ -88,7 +100,11 @@ description: Invocations for the dead in the Funeral prayer
 </div>
 &nbsp;
 
-[audio mp3="{{ site.baseurl }}/audio/fortress159.mp3"][/audio]
+
+<audio controls  preload="none">
+  <source src="{{ site.baseurl }}/audio/fortress/159.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
 
 &nbsp;
 <div class="duaextra" tabindex="0">
