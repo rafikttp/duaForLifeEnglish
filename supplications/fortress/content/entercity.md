@@ -14,8 +14,11 @@ description: Invocation for entering a town or city
 </div>
 &nbsp;
 
-[audio mp3="{{ site.baseurl }}/audio/fortress208.mp3"][/audio]
 
+<audio controls  preload="none">
+  <source src="{{ site.baseurl }}/audio/fortress/208.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
 &nbsp;
 <div class="duaextra" tabindex="0">
 <div><strong>Transliteration</strong></div>
