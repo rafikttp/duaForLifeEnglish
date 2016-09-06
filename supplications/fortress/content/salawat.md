@@ -2,7 +2,7 @@
 layout: allpages
 title:  How to recite blessings on the Prophet after the Tashahhud
 categories : [fortress]
-order : 23
+order : 24
 description: What to say when reciting blessings on the Prophet after the Tashahhud
 ---
 &nbsp;
