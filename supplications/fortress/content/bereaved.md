@@ -2,7 +2,7 @@
 layout: allpages
 title:  Invocation for the bereaved
 categories : [fortress]
-order : 45
+order : 56
 description: Invocation for the bereaved
 ---
 &nbsp;
