@@ -14,7 +14,10 @@ description: Invocations for when the wind blow
 </div>
 &nbsp;
 
-[audio mp3="{{ site.baseurl }}/audio/fortress166.mp3"][/audio]
+<audio controls  preload="none">
+  <source src="{{ site.baseurl }}/audio/fortress/166.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
 
 &nbsp;
 <div class="duaextra" tabindex="0">
