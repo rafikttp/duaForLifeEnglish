@@ -2,7 +2,7 @@
 layout: allpages
 title:  How to seek protection for children
 categories : [fortress]
-order : 39
+order : 48
 description: What to say for protection for children
 ---
 &nbsp;
