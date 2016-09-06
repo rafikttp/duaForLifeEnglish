@@ -2,7 +2,7 @@
 layout: allpages
 title:  Invocations for the dead in the Funeral prayer
 categories : [fortress]
-order : 44
+order : 54
 description: Invocations for the dead in the Funeral prayer
 ---
 &nbsp;
