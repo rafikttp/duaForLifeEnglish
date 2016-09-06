@@ -78,7 +78,7 @@ Your browser does not support the audio element.
 &nbsp;
 
 <audio controls  preload="none">
-  <source src="{{ site.baseurl }}/audio/fortress/256.mp3" type="audio/mpeg">
+  <source src="{{ site.baseurl }}/audio/fortress/256-257.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 &nbsp;
