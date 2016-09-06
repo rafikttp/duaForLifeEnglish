@@ -13,7 +13,7 @@ gems:
 
 prose:
   rooturl: ''
-  siteurl: 'en.duaforlife.com'
+  siteurl: 'en.duaforlife.com/'
   media: 'assets'
   metadata:
     _posts:
