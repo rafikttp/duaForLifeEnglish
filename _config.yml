@@ -41,3 +41,8 @@ prose:
           label: "order"
           element: "text"
           placeholder: "Enter order"
+      - name: "published"
+        field:
+          label: "published"
+          element: "true"
+          placeholder: "Enter order"
