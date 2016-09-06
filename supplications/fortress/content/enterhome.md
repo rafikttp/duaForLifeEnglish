@@ -1,9 +1,9 @@
 ---
 layout: allpages
-categories: fortress
-title: What to say when entering the home
+title:  What to say when entering the home
+categories : [fortress]
+order : 12
 description: What to say when entering the home
-order: 12
 ---
 &nbsp;
 <div class="arabictext" dir="RTL">
