@@ -2,7 +2,7 @@
 layout: allpages
 title:  Istikharah (seeking Allah’s Counsel)
 categories : [fortress]
-order : 24
+order : 26
 description: What to say when seeking Allah’s Counsel
 ---
 &nbsp;
