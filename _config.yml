@@ -15,7 +15,6 @@ prose:
   rooturl: ''
   siteurl: 'en.duaforlife.com/'
   metadata:
-    supplications:
       - name: "layout"
         field:
           label: "layout"
