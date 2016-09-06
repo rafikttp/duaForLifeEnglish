@@ -13,7 +13,11 @@ description: Invocations for a child in the Funeral prayer
 </div>
 &nbsp;
 
-[audio mp3="{{ site.baseurl }}/audio/fortress160.mp3"][/audio]
+
+<audio controls  preload="none">
+  <source src="{{ site.baseurl }}/audio/fortress/160.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
 
 &nbsp;
 <div class="duaextra" tabindex="0">
@@ -56,7 +60,11 @@ description: Invocations for a child in the Funeral prayer
 </div>
 &nbsp;
 
-[audio mp3="{{ site.baseurl }}/audio/fortress161.mp3"][/audio]
+
+<audio controls  preload="none">
+  <source src="{{ site.baseurl }}/audio/fortress/161.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
 
 &nbsp;
 <div class="duaextra" tabindex="0">
