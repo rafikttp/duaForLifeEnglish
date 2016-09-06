@@ -2,7 +2,7 @@
 layout: allpages
 title:  Invocations for anguish
 categories : [fortress]
-order : 32
+order : 35
 description: What to say in times of anguish
 ---
 &nbsp;
