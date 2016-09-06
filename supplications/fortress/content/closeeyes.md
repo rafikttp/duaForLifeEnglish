@@ -14,8 +14,10 @@ description: Invocation for closing the eyes of the dead
 
 &nbsp;
 
-[audio mp3="{{ site.baseurl }}/audio/fortress155.mp3"][/audio]
- &nbsp;
+<audio controls  preload="none">
+  <source src="{{ site.baseurl }}/audio/fortress/155.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio> &nbsp;
 
 <div class="duaextra" tabindex="0"> <div onclick = "void(0)"><strong>Transliteration</strong></div> <div class="extra">
 155. Allaahummaghfir li (name of the person) warfa' darajatahu fil-mahdiyyeena, wakhlufhu fee 'aqibihi fil-ghaabireena , waghfir-lanaa wa lahu yaa Rabbal-'aalameena, wafsah lahu fee qabrihi wa nawwir lahu feehi.
