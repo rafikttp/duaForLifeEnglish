@@ -13,7 +13,11 @@ description: Invocation for the bereaved
 </div>
 &nbsp;
 
-[audio mp3="{{ site.baseurl }}/audio/fortress162.mp3"][/audio]
+
+<audio controls  preload="none">
+  <source src="{{ site.baseurl }}/audio/fortress/162.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
 
 &nbsp;
 <div class="duaextra" tabindex="0">
