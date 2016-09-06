@@ -26,10 +26,12 @@ Your browser does not support the audio element.
 <div class="duaextra" tabindex="0"> <div onclick = "void(0)"><strong>Transliteration</strong></div> <div class="extra">
 164. Allaahum-maghfir lahu Allaahumma thabbithu.
 
-</div> </div> &nbsp; <div class="duaextra" tabindex="0"> <div onclick = "void(0)"><strong>Translation</strong></div> <div class="extra">
+</div> </div> &nbsp; 
+<div class="duaextra" tabindex="0"> <div onclick = "void(0)"><strong>Translation</strong></div> <div class="extra">
 O Allah, forgive him. O Allah, strengthen him.
 
-</div> </div> &nbsp; <div class="duaextra" tabindex="0"> <div onclick = "void(0)"><strong>Reference</strong></div> <div class="extra">
+</div> </div> &nbsp;
+<div class="duaextra" tabindex="0"> <div onclick = "void(0)"><strong>Reference</strong></div> <div class="extra">
 Reference: The Prophet (SAW) used to stop after burying the dead and say to the people: "Ask Allah to forgive your brother and pray for him to be strengthened, for indeed he is now being questioned." Abu Dawud 3/315, and Al-Hakim 1/370 who graded it authentic and Ath-Thahabi agreed.
 
 </div> </div>
