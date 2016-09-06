@@ -2,7 +2,7 @@
 layout: allpages
 title:  Congratulations for new parents and how they should respond
 categories : [fortress]
-order : 39
+order : 47
 description: What to say for new parents and how they should respond
 ---
 &nbsp;
