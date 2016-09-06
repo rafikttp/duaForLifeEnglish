@@ -2,7 +2,7 @@
 layout: allpages
 title:  Invocations for the setting of a debt
 categories : [fortress]
-order : 37
+order : 41
 description: What to say if you are setting of a debt
 ---
 &nbsp;
