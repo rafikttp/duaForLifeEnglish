@@ -12,32 +12,40 @@ gems:
   - jekyll-seo-tag
 
 prose:
-  rooturl: '_posts'
-  siteurl: 'en.duaforlife.com/'
+  prose:
+  rooturl: ''
+  siteurl: 'en.duaforlife.com'
+  media: 'assets'
   metadata:
     _posts:
       - name: "layout"
         field:
+          label: "layout"
           element: "text"
-          value: "allpages"
-          placeholder: "Enter layout"
-      - name: "title"
+          value: "post"
+      - name: "date"
         field:
-          field:
+          label: "date"
           element: "text"
-		  placeholder: "Enter title"
-      - name: "description"
+          value: "CURRENT_DATETIME"
+      - name: "author"
         field:
-          field:
+          label: "author"
           element: "text"
-          placeholder: "Enter description"
-   	  - name: "order"
+          value: "Hywel"
+      - name: "categories"
         field:
-          field:
-          element: "text"
-          placeholder: "Enter order"
-      - name: "category"
-        field:
-          field:
+          label: "categories"
           element: "text"
           placeholder: "Enter categories"
+      - name: "excerpt"
+        field:
+          label: "excerpt"
+          element: "text"
+          placeholder: "Enter excerpt"
+      - name: "meta"
+        field:
+          label: "meta"
+          element: "text"
+          placeholder: "Enter metadata"
+  
