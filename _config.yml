@@ -16,7 +16,7 @@ prose:
   siteurl: 'en.duaforlife.com/'
   media: 'assets'
   metadata:
-    _posts:
+    _pages:
       - name: "layout"
         field:
           label: "layout"
